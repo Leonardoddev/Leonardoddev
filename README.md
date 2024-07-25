@@ -7,6 +7,8 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardoddev&show_icons=true&theme=cobalt)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoddev&layout=compact)
+
 ## Tecnologias que eu uso no meu dia a dia 
 
 <div style="display:inline_block"><br/>
@@ -22,5 +24,3 @@
     <img align="center" alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 </div><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoddev&layout=donut)](https://github.com/Leonardoddev/github-readme-stats)
