@@ -5,9 +5,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardoddev&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoddev&layout=compact)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardoddev&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoddev&layout=compact)
 
 ## Tecnologias que eu uso no meu dia a dia 
 
