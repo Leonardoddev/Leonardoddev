@@ -2,7 +2,7 @@
 ### Olá, eu sou o Leonardo Devicari! 👋
 
 <div>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoddev&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoddev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
